@@ -25,7 +25,7 @@ Currently, I am expanding my expertise in **MLOps orchestration** and authoring 
 
 | **Core Domain** | **Technologies & Concepts** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) , Typescript, Javacript, Next.Js, HTML, CSS|
 | **AI & ML** | TensorFlow, PyTorch, Scikit-learn, LLMs (RAG, Fine-tuning) |
 | **MLOps & DevOps** | Docker, Git, CI/CD Pipelines, Model Monitoring |
 | **Data Viz** | Matplotlib, Seaborn, Tableau/PowerBI |
